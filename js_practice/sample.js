@@ -1,1 +1,1 @@
-document.write("Hello friends......")
+console.log("560")
